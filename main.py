@@ -4,7 +4,9 @@ import pyglet
 from PIL import Image, ImageTk
 from lib import shortFunc
 
+
 #----------------------------------------------------------------------------------------
+
 
 def shortCode():
 
@@ -17,9 +19,9 @@ def shortCode():
     except UnicodeDecodeError:
         outputField.insert("end-1c", "Error. Please try to modify the code.")
 
-
-
+        
 #----------------------------------------------------------------------------------------
+
 
 pyglet.font.add_file('src/font/Aucoinlight.ttf')
 
