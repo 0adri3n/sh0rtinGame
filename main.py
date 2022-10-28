@@ -1,5 +1,4 @@
 import tkinter.font as font
-from threading import main_thread
 import tkinter
 import pyglet
 from PIL import Image, ImageTk
