@@ -1,5 +1,5 @@
 # <p align="center"> sh0rtinGame </p>
-<p align="center">sh0rtinGame let you make your Python code shorter to win Clash of Code's shortest mode on codingame</p>
+<p align="center">sh0rtinGame let you make your Python code shorter to win Clash of Code's shortest mode on codingame !</p>
 
 
 ## Installation
