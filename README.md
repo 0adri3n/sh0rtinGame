@@ -8,7 +8,7 @@ Go to the <a href="https://github.com/akira-trinity/sh0rtinGame/releases">releas
 
 Extract it and start ```sh0rtinGame.exe```
 
-You also download the source code and use it with Python :
+You can also download the source code and use it with Python :
 ```bash
 python main.py
 ```
